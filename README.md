@@ -4,14 +4,10 @@
 </br>
 
 * requests = ['GET', 'POST']
-* logged user = hp
-
-</br>
-![Screenshot (51)](https://user-images.githubusercontent.com/72871727/209381622-3cd83ae1-75d9-42a4-9999-1ca5ce9438ad.png)
+* logged user = rohit
 </br>
 </br>
 
-logged in user = rohit
 ![Screenshot (52)](https://user-images.githubusercontent.com/72871727/209382643-f12dbe83-0c99-4701-9463-aac50c083dfd.png)
 </br>
 </br>
