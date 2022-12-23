@@ -2,10 +2,13 @@
 
 >> List of All Task (only the tasks added by logged in user)
 </br>
+
 * requests = ['GET', 'POST']
 * logged user = hp
+
 </br>
 ![Screenshot (51)](https://user-images.githubusercontent.com/72871727/209381622-3cd83ae1-75d9-42a4-9999-1ca5ce9438ad.png)
+</br>
 </br>
 
 logged in user = rohit
